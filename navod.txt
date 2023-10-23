@@ -1,0 +1,7 @@
+-udelam zmenu
+- git status (napisou se mi veci, ktere je potreba ulozit)
+- git add (pridam na seznam veci, ktere poydeji ulozim)
+- git commit (ulozim vse ze seznamu)
+- git push (pridam zpatky na github)
+- git log (ukaze mi historii zmen)
+
