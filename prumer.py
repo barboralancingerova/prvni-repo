@@ -1,5 +1,23 @@
 import sys
 
+def prumer(cisla):
+    soucet = 0
+    for i in cisla:
+        soucet += 1
+    return(soucet/len(cisla))
+    
+
+
+
+
+
+
+
+
+
+
+
+"""
 def main():
     if len(sys.argv) < 2:
         print("Zadejte řadu čísel oddělených mezerou")
@@ -14,3 +32,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+"""
