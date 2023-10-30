@@ -1,2 +1,2 @@
 # prvni-repo
-trtjkuzzffff fffzfuz
+fgfdrtoziz f luul  fuzfrl
