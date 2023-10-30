@@ -1,2 +1,2 @@
 # prvni-repo
-fgfdrtoziz f luul  fuzfrl
+pisu zmenu
